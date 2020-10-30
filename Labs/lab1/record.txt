@@ -1,0 +1,3 @@
+infected : 2
+death : 0
+recovered : 0
