@@ -1,5 +1,5 @@
 # Web-Helpline-Network-System
-You have downloaded the directory of the project.
+
 
 *************************************************************************
 *** To download the records of a lab in the ambulance service records ***
